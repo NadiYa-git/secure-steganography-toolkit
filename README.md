@@ -89,7 +89,6 @@ Unlike basic steganography tools that hide plain text directly, this toolkit enc
 
 ## Screenshots
 
-Add your real screenshots inside the `screenshots/` folder and update the links below.
 
 ### Main GUI
 
